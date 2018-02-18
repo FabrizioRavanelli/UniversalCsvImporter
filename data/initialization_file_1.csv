@@ -1,0 +1,3 @@
+Code (Table Key);GovID;LocalID;Name;"commercial name
+";street;neighborhood;city;state;zipcode;phone;contact;;street number;form of payment (foreign key);email;payment plan (foreign key);;;note;;
+10000;7,94E+13;0;MARIA MARLI DE SOUZA;ASSOC BANDEIRANTES;ELISBERTH FEDERSON;SALTO DO NORTE;BLUMENAU;SC;89065430;0;;;14;CH;cliente.sem.email@segalas.com.br;5001;;;BLOQ. AUT. POR 45 DIAS INATIVO;;

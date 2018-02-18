@@ -1,0 +1,4 @@
+Code (Table Key);GovID;LocalID;Name;"commercial name
+";street;neighborhood;city;state;zipcode;phone;contact;;street number;payment form code(foreign key);email;payment plan code(foreign key);;;note;;
+10000;7,93714E+13;0;MARIA MARLI DE SOUZA;ASSOC BANDEIRANTES teste abel;ELISBERTH FEDERSON;SALTO DO NORTE;BLUMENAU;SC;89065430;0;;;14;CH;cliente.sem.email@segalas.com.br;5001;;;BLOQ. AUT. POR 45 DIAS INATIVO;;
+10002;3,95746E+12;255353553;LINDOMAR CASTILHO BORGES ZANIQUE ME;MERCADO ZANAQUI;R ADELINA KLEIN EHLERT;TIFA MARTINS;JARAGUA DO SUL;SC;89254837;4732730224;;;14;1;mercadofirenze@hotmail.com;930;;1;;;
